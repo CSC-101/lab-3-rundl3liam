@@ -15,3 +15,5 @@ class Lab3TestCases(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+#Question: The code would not be correct simply because test one passed. It just happens to be that 2 squared and doubled is the same number regardless, but that doesn't mean the function will always perform correctly as seen in the second test
+
